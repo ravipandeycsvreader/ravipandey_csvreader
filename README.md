@@ -1,6 +1,4 @@
 # ravipandey_csvreader
-The purpose of this project is to upload csv file. This project is based on node js &amp; ejs and it uses express js as server.
-
 The purpose of this project is to upload CSV file. This project is based on node js & ejs and I have used express js as server in this project.
 
 CSV reader reads the csv file and shows its content into tabular form.
