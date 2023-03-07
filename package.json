@@ -1,0 +1,19 @@
+{
+  "name": "csv_reader",
+  "version": "1.0.0",
+  "description": "csv reader reads csv file and displays the data in the tabular form ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error Occured: no test specified\" && exit 1"
+  },
+  "author": "Ravi Shankar Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.21"
+  }
+}
